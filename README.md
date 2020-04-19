@@ -3,7 +3,7 @@ Developed with Python (GUI/Tkinter) to make profiles of daily routine's applicat
 ## Getting Started
 The application can be easily launched by executing the appProfiler.exe file.
 ## Functionalities
-- Make a bundle launch of daily routine applications on single click.
+- Make a bundle launch of daily routine applications in a single click.
 - Records the application once saved in a profile in text files (different profiles's applications are stored in different file).
 - Currently has 3 predefined profiles (WORK, GAME and OTHER).
 ## Built with
